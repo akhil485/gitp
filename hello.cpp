@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 
-using namsespace std;
+using namespace std;
 
 int main(){
-    cout<<"hello \n";
+    cout << "Hello \n";
 }  
